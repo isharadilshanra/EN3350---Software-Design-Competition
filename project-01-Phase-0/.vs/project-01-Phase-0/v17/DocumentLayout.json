@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\assets\\loadingpagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\loadingpagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\assets\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\assets\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\assets\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\assets\\playerprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\playerprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\assets\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|d:\\softwares\\unity\\project-01-phase-0\\project-01-phase-0\\assets\\gameentrancescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\gameentrancescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|d:\\softwares\\unity\\project-01-phase-0\\project-01-phase-0\\assets\\achivmentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546B890A-EA1C-8019-085B-2B7A23E4FE3A}|Assembly-CSharp.csproj|solutionrelative:assets\\achivmentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AchivmentPage.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\AchivmentPage.cs",
+              "RelativeDocumentMoniker": "Assets\\AchivmentPage.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\AchivmentPage.cs",
+              "RelativeToolTip": "Assets\\AchivmentPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:34:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameEntranceScript.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\GameEntranceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GameEntranceScript.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\GameEntranceScript.cs",
+              "RelativeToolTip": "Assets\\GameEntranceScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:56:31.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuScript.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\MainMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenuScript.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\MainMenuScript.cs",
+              "RelativeToolTip": "Assets\\MainMenuScript.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:47:03.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerProfilePage.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\PlayerProfilePage.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerProfilePage.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\PlayerProfilePage.cs",
+              "RelativeToolTip": "Assets\\PlayerProfilePage.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:34:45.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "staticdata.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\staticdata.cs",
+              "RelativeDocumentMoniker": "Assets\\staticdata.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\staticdata.cs",
+              "RelativeToolTip": "Assets\\staticdata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:14:50.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneManagerScript.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\SceneManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneManagerScript.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\SceneManagerScript.cs",
+              "RelativeToolTip": "Assets\\SceneManagerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:06:31.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apiHandler.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\apiHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\apiHandler.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\apiHandler.cs",
+              "RelativeToolTip": "Assets\\apiHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:58:22.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingPageScript.cs",
+              "DocumentMoniker": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\LoadingPageScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadingPageScript.cs",
+              "ToolTip": "D:\\softwares\\unity\\project-01-Phase-0\\project-01-Phase-0\\Assets\\LoadingPageScript.cs",
+              "RelativeToolTip": "Assets\\LoadingPageScript.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:24:34.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
